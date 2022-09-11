@@ -1,0 +1,331 @@
+{
+    "categories": [{
+            "id": 1,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 123,
+                "name": "Maria"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 103,
+                    "description": "Spaghetti pasta",
+                    "quantity": "100g"
+                },
+                {
+                    "id": 2,
+                    "icon": 101,
+                    "description": "Olive Oil",
+                    "quantity": "2 tbsp"
+                },
+                {
+                    "id": 3,
+                    "icon": 110,
+                    "description": "Fresh Shrimp",
+                    "quantity": "100g"
+                },
+                {
+                    "id": 4,
+                    "icon": 111,
+                    "description": "Campari tomatoes",
+                    "quantity": "100g"
+                },
+                {
+                    "id": 5,
+                    "icon": 108,
+                    "description": "Salt",
+                    "quantity": "¾ tbsp"
+                },
+                {
+                    "id": 6,
+                    "icon": 104,
+                    "description": "Black Pepper",
+                    "quantity": "¼ tbsp"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Madhu Sudhana Rao",
+            "title": "X-Ray Technician",
+            "caste": "Koppula velama",
+            "religion": "Christian",
+            "denomination": "Baptist",
+            "age": "35",
+            "height": "5.8",
+            "location": "Samalkot",
+            "author": {
+                "profilePic": 126,
+                "name": "Mandy"
+            },
+            "ingredients": [{
+                    "id": 1,
+                    "icon": 95,
+                    "description": "Boneless Chicken Thighs",
+                    "quantity": "1kg"
+                },
+                {
+                    "id": 2,
+                    "icon": 100,
+                    "description": "Lemongrass stalk",
+                    "quantity": "1 stalk"
+                },
+                {
+                    "id": 3,
+                    "icon": 102,
+                    "description": "Large Onion",
+                    "quantity": "1"
+                },
+                {
+                    "id": 4,
+                    "icon": 99,
+                    "description": "Garlic cloves",
+                    "quantity": "5"
+                },
+                {
+                    "id": 5,
+                    "icon": 97,
+                    "description": "Coriander",
+                    "quantity": "1 tsp"
+                }
+            ]
+        }
+    ]
+}
